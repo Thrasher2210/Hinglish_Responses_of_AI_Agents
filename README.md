@@ -75,10 +75,6 @@ The model's performance is evaluated based on:
 6. Implement response caching for better performance
 7. Add support for different regional variations of Hinglish
 
-## 📝 License
-
-[Your chosen license]
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. When contributing:
